@@ -1,0 +1,7 @@
+path: /Users/lizhou/codebase/surfer-cv/data
+train: images/train
+val: images/val
+
+# Classes
+names:
+  0: surfer

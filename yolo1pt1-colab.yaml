@@ -1,0 +1,7 @@
+path: /content/gdrive/My Drive/surfer-dataset
+train: images/train
+val: images/val
+
+# Classes
+names:
+  0: surfer
